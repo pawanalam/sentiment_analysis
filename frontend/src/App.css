@@ -1,0 +1,157 @@
+/* Dark mode background */
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Full height */
+  margin: 0;
+  background-color: #121212; /* Deep dark background */
+  font-family: "Poppins", sans-serif;
+  color: #ffffff; /* White text */
+  overflow: hidden;
+}
+
+/* ChatGPT-style container */
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 100%;
+  max-width: 600px;
+  height: 85vh;
+  background: #1e1e1e; /* Dark grey panel */
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0px 6px 15px rgba(0, 0, 0, 0.4);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+/* Animated glowing title */
+h1 {
+  text-align: center;
+  font-size: 3.5rem;
+  color: #ffffff;
+  margin-bottom: 20px;
+  text-shadow: 0 0 10px #ffffff, 0 0 20px #00ffff, 0 0 40px #ff00ff;
+  animation: glow 2s infinite alternate;
+}
+
+@keyframes glow {
+  0% {
+    text-shadow: 0 0 10px #ffffff, 0 0 20px #00ffff, 0 0 40px #ff00ff;
+  }
+  100% {
+    text-shadow: 0 0 15px #ffffff, 0 0 30px #00ffff, 0 0 60px #ff00ff;
+  }
+}
+
+/* Header/title */
+h2 {
+  text-align: center;
+  font-size: 1.3rem;
+  color: #f0f0f0;
+  margin-bottom: 15px;
+}
+
+/* Navigation Bar */
+nav {
+  padding: 2vw 2vw;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+/* Chat-style message area */
+.message-area {
+  flex-grow: 1;
+  overflow-y: auto;
+  padding-bottom: 20px;
+  scrollbar-width: thin;
+  scrollbar-color: #555 #2a2a2a;
+}
+
+/* Custom Scrollbar */
+.message-area::-webkit-scrollbar {
+  width: 8px;
+}
+
+.message-area::-webkit-scrollbar-thumb {
+  background: #555;
+  border-radius: 10px;
+}
+
+/* Input form */
+form {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  gap: 12px;
+  margin-top: 10px;
+}
+
+/* ChatGPT-style input box */
+input {
+  flex-grow: 1;
+  padding: 12px;
+  border: 2px solid transparent;
+  border-radius: 25px;
+  font-size: 1rem;
+  background-color: #292a36; /* Deep dark input */
+  color: white;
+  outline: none;
+  transition: 0.3s ease-in-out;
+}
+
+input:focus {
+  border: 2px solid #00ffff;
+  box-shadow: 0px 0px 10px #00ffff;
+}
+
+input::placeholder {
+  color: #a1a1a1;
+}
+
+/* Send button */
+button {
+  background: linear-gradient(135deg, #00ffff, #ff00ff);
+  color: black;
+  font-size: 1rem;
+  padding: 12px 15px;
+  border: none;
+  border-radius: 50px;
+  cursor: pointer;
+  transition: 0.3s ease-in-out;
+  font-weight: bold;
+}
+
+button:hover {
+  transform: scale(1.1);
+  background: linear-gradient(135deg, #ff00ff, #00ffff);
+  box-shadow: 0px 0px 10px #ff00ff;
+}
+
+/* Mobile-friendly layout */
+@media (max-width: 600px) {
+  .container {
+    width: 90%;
+    height: 90vh;
+  }
+
+  h1 {
+    font-size: 2.5rem;
+  }
+
+  form {
+    flex-direction: column;
+  }
+
+  input {
+    width: 100%;
+  }
+
+  button {
+    width: 100%;
+    padding: 15px;
+  }
+}
