@@ -161,21 +161,7 @@ Additional Projects:
           marginTop: "2rem",
         }}
       >
-        <button
-          onClick={handleSubmit}
-          style={{
-            backgroundColor: "#007BFF",
-            color: "white",
-            padding: "0.75rem 2rem",
-            border: "none",
-            borderRadius: "8px",
-            cursor: "pointer",
-            fontSize: "1rem",
-            boxShadow: "0px 4px 10px rgba(0, 0, 0, 0.1)",
-          }}
-        >
-          Submit
-        </button>
+        <button onClick={handleSubmit}>Submit</button>
       </div>
     </>
   );

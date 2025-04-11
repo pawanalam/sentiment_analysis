@@ -84,7 +84,7 @@ input::placeholder {
 }
 
 /* Button */
-button {
+form button {
   background: linear-gradient(135deg, #fefefe, #f9e5c0);
   color: black;
   font-size: 1.2rem;
@@ -96,7 +96,7 @@ button {
   border-radius: 25px;
 }
 
-button:hover {
+form button:hover {
   transform: scale(1.1);
   border: 1px solid #dadada;
   box-shadow: 0px 0px 15px rgba(207, 205, 205, 0.6);
@@ -263,4 +263,23 @@ ul img {
   display: block;
   border-radius: 250px;
   float: right;
+}
+
+button{
+  background: linear-gradient(135deg, grey, wheat);
+  color: black;
+  font-size: 1.2rem;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  transition: 0.3s ease-in-out;
+  font-weight: bold;
+  border-radius: 25px; 
+  
+}
+
+button:hover {
+  transform: scale(1.1);
+  border: 1px solid #dadada;
+  box-shadow: 0px 0px 15px rgba(207, 205, 205, 0.6);
 }
