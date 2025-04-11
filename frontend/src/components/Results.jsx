@@ -17,8 +17,18 @@ const Results = () => {
 
   return (
     <div>
-      <h2>Stored Data</h2>
-      <button onClick={fetchSessionData}>Fetch Session Data</button>
+      <span>
+        <h2>Stored Data</h2>
+      </span>
+      <form>
+        <input placeholder="enter name" type="text" />
+        <input placeholder="enter age" type="text" />
+        <input placeholder="enter number" type="text" />
+        <input placeholder="enter address" type="text" />
+        <input placeholder="enter page" type="text" />
+
+        <button onClick={fetchSessionData}>Fetch Session Data</button>
+      </form>
 
       {result ? (
         <>
@@ -30,7 +40,9 @@ const Results = () => {
       ) : (
         <p>No data available. Submit a profile or fetch stored data.</p>
       )}
+
     </div>
+
   );
 };
 
