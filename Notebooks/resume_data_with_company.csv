@@ -1,0 +1,101 @@
+"Company","Branch","Experience","Role","Skills","shortlisting_probability","matched_skills_count","total_job_skills","skill_match_percent","cgpa","recommendation","fit_label","fit_score","resume_quality_score","market_value_score"
+"Infosys","Chennai",1,"Data Scientist","OpenCV, PyTorch, Git, Excel, Transformers, TensorFlow, Docker, Vue.js",0.94,1,8,12.5,7.33,"No","Fit",5.73,9.88,79.76
+"Cognizant","Delhi",3,"NLP Engineer","Git, Bootstrap, Transformers, Seaborn, Vue.js",0.86,5,5,100.0,9.56,"Yes","Fit",9.38,7.38,65.47
+"Capgemini","Delhi",7,"Data Analyst","TensorFlow, Seaborn, Python, Java, C++, Node.js, PyTorch, OpenCV, TypeScript",0.95,4,9,44.44,6.48,"Yes","No Fit",7.15,5.12,83.71
+"IBM India","Gurgaon",2,"AI Research Assistant","Flask, Rust, Transformers, Scikit-Learn, TypeScript, PostgreSQL, PyTorch",0.97,4,7,57.14,7.85,"Yes","Fit",7.28,6.8,85.28
+"IBM India","Noida",2,"Data Analyst","Docker, TypeScript, OpenCV, Tailwind CSS, PostgreSQL, Flask, React, TensorFlow, Bootstrap, LLMs",0.47,8,10,80.0,6.51,"No","Fit",9.73,8.79,57.58
+"HCL Technologies","Bangalore",1,"AI Research Assistant","Vue.js, Scikit-Learn, LLMs, PyTorch, Docker, Rust, C++",0.68,4,7,57.14,8.35,"No","No Fit",6.57,9.41,96.72
+"HCL Technologies","Kolkata",8,"Deep Learning Engineer","TypeScript, MongoDB, Java, LLMs, Tailwind CSS, Node.js, FastAPI, Python, Power BI, Git, Vue.js, OpenCV",0.97,10,12,83.33,7.02,"Yes","No Fit",7.0,8.99,57.61
+"Cognizant","Indore",0,"Backend Developer","Rust, Python, React, Bootstrap, C++, Vue.js, PyTorch",0.63,6,7,85.71,7.92,"Yes","Fit",9.86,7.22,60.07
+"Mindtree","Chennai",4,"MLOps Engineer","TensorFlow, FastAPI, C++, Java, Bootstrap",0.52,1,5,20.0,6.2,"Yes","Fit",7.71,5.76,76.97
+"Cognizant","Bangalore",8,"Frontend Architect","Python, FastAPI, LLMs, Node.js, Rust, Seaborn, Scikit-Learn, Excel, Bootstrap",0.97,2,9,22.22,6.55,"No","Fit",9.77,9.48,81.81
+"HCL Technologies","Indore",0,"Machine Learning Engineer","Transformers, React, Git, Python, Excel, MongoDB",0.7,5,6,83.33,8.69,"Yes","No Fit",8.88,6.0,59.48
+"Accenture","Noida",7,"Frontend Architect","TypeScript, Scikit-Learn, Bootstrap, Git, Flask, Rust",0.66,2,6,33.33,8.27,"Yes","Fit",6.87,6.43,56.02
+"Zoho Corp","Hyderabad",8,"Machine Learning Engineer","Rust, TensorFlow, Bootstrap, Excel, Flask, Python, PostgreSQL",0.55,4,7,57.14,8.6,"Yes","Fit",9.95,8.99,66.04
+"Wipro","Mumbai",5,"Data Engineer","LLMs, FastAPI, React, Docker, Python, PyTorch, Node.js",0.74,4,7,57.14,8.48,"No","Fit",8.3,7.23,88.01
+"IBM India","Indore",8,"AI Research Assistant","PyTorch, Seaborn, Java, Git, Excel, LLMs, Bootstrap, C++, Vue.js, TensorFlow, Scikit-Learn",0.86,1,11,9.09,9.17,"Yes","No Fit",5.44,7.76,73.17
+"IBM India","Gurgaon",2,"MLOps Engineer","OpenCV, Vue.js, LLMs, Flask, Bootstrap, PyTorch",0.62,4,6,66.67,9.59,"Yes","Fit",5.62,9.14,57.71
+"TCS","Noida",5,"Data Analyst","React, PostgreSQL, Java, Seaborn, Scikit-Learn, Git",0.89,3,6,50.0,8.34,"Yes","Fit",7.14,5.15,89.74
+"IBM India","Mumbai",7,"AI/ML Intern","Vue.js, Tailwind CSS, Node.js, React, Rust, Flask, Seaborn, Transformers",0.46,7,8,87.5,8.93,"Yes","Fit",9.22,9.07,55.78
+"Infosys","Bangalore",0,"ML Ops Specialist","C++, Flask, Bootstrap, React, MongoDB, Tailwind CSS, Vue.js, Rust",0.8,4,8,50.0,6.94,"Yes","No Fit",9.39,8.34,55.83
+"Mindtree","Bangalore",7,"Data Analyst","Bootstrap, Seaborn, LLMs, C++, TensorFlow",0.42,4,5,80.0,9.61,"No","Fit",6.11,9.02,55.55
+"HCL Technologies","Mumbai",8,"Computer Vision Engineer","Excel, Scikit-Learn, Rust, PyTorch, Python, TypeScript, Transformers, OpenCV, React, MongoDB, Vue.js",0.55,9,11,81.82,9.69,"Yes","Fit",9.07,6.66,73.84
+"Tech Mahindra","Bangalore",0,"Backend Developer","Git, Rust, MongoDB, C++, Python, Excel",0.84,2,6,33.33,6.68,"Yes","Fit",7.96,6.09,55.53
+"HCL Technologies","Pune",6,"Software Engineer","Excel, Node.js, Java, TensorFlow, Git, PyTorch",0.58,4,6,66.67,7.08,"Yes","Fit",5.56,9.08,76.36
+"Capgemini","Hyderabad",2,"Data Analyst","LLMs, Power BI, Seaborn, TypeScript, Node.js",0.53,1,5,20.0,7.48,"Yes","Fit",8.61,6.32,97.17
+"Zoho Corp","Mumbai",6,"Software Engineer","LLMs, MongoDB, Python, OpenCV, Flask, PostgreSQL, C++",0.61,5,7,71.43,6.98,"No","Fit",6.12,7.66,75.94
+"Capgemini","Delhi",7,"Software Engineer","Transformers, PostgreSQL, LLMs, Tailwind CSS, Scikit-Learn, Power BI, PyTorch, C++, Git, Excel",0.86,10,10,100.0,6.82,"Yes","Fit",5.19,5.38,58.5
+"IBM India","Bangalore",5,"Blockchain Architect","Power BI, Git, Flask, TensorFlow, TypeScript, Docker, Bootstrap, Node.js, MongoDB, React, OpenCV",0.55,5,11,45.45,9.95,"No","Fit",6.45,6.33,88.65
+"Mindtree","Delhi",3,"Frontend Architect","LLMs, Bootstrap, Scikit-Learn, TypeScript, Java, Power BI, Excel",0.7,2,7,28.57,6.92,"Yes","No Fit",9.48,8.38,60.86
+"L&T Infotech","Delhi",7,"DevOps Engineer","Docker, Seaborn, TypeScript, Vue.js, LLMs, OpenCV, Excel",0.9,5,7,71.43,8.58,"Yes","Fit",8.91,7.41,51.98
+"Wipro","Hyderabad",0,"NLP Engineer","C++, Docker, Bootstrap, Tailwind CSS, Flask, Power BI, TypeScript",0.96,3,7,42.86,8.14,"No","No Fit",5.82,6.87,51.66
+"HCL Technologies","Hyderabad",2,"Cloud Engineer","Vue.js, Tailwind CSS, PostgreSQL, Scikit-Learn, Transformers",0.98,5,5,100.0,8.17,"No","No Fit",7.28,6.26,86.46
+"Capgemini","Hyderabad",2,"Full Stack Developer","PostgreSQL, Power BI, PyTorch, React, OpenCV, MongoDB, FastAPI, C++, Seaborn, Bootstrap, TensorFlow",0.72,2,11,18.18,7.28,"No","Fit",7.7,8.7,50.14
+"Accenture","Ahmedabad",2,"Cloud Engineer","Scikit-Learn, Flask, Python, Rust, Vue.js, Node.js",0.59,3,6,50.0,8.38,"Yes","Fit",6.17,7.94,93.78
+"Zoho Corp","Gurgaon",8,"DevOps Engineer","React, Docker, Node.js, Power BI, TypeScript, MongoDB, Excel, Python, PostgreSQL, Tailwind CSS, LLMs",0.7,7,11,63.64,6.15,"Yes","Fit",7.62,5.81,62.34
+"Wipro","Pune",2,"ML Ops Specialist","React, LLMs, Git, Docker, TypeScript, Node.js",0.68,6,6,100.0,9.42,"Yes","Fit",8.67,8.7,70.73
+"Accenture","Mumbai",3,"Deep Learning Engineer","React, PostgreSQL, Transformers, Bootstrap, MongoDB, Python, FastAPI, Vue.js, TensorFlow",0.45,6,9,66.67,6.3,"Yes","Fit",9.23,5.5,91.37
+"TCS","Pune",6,"Data Analyst","Bootstrap, Rust, Docker, React, FastAPI, Excel, TensorFlow, Flask",0.48,1,8,12.5,7.6,"No","No Fit",6.55,7.84,55.24
+"Zoho Corp","Noida",2,"Computer Vision Engineer","LLMs, Bootstrap, C++, Seaborn, Flask, Git, Python, FastAPI",0.66,7,8,87.5,8.6,"No","Fit",6.79,8.46,58.59
+"TCS","Noida",1,"Blockchain Architect","Java, Vue.js, TensorFlow, TypeScript, PyTorch, Node.js, PostgreSQL, Bootstrap, Rust",0.94,6,9,66.67,9.72,"Yes","No Fit",5.77,9.58,72.23
+"Infosys","Pune",8,"Machine Learning Engineer","Node.js, OpenCV, PostgreSQL, Docker, MongoDB, FastAPI, PyTorch, Java, TensorFlow, Excel",0.91,4,10,40.0,8.61,"No","Fit",7.78,5.12,78.35
+"Wipro","Pune",4,"Data Engineer","Power BI, TensorFlow, Flask, Bootstrap, Seaborn, OpenCV",0.93,1,6,16.67,8.07,"No","Fit",9.01,9.69,83.74
+"L&T Infotech","Bangalore",2,"AI Research Assistant","PostgreSQL, Excel, Seaborn, OpenCV, FastAPI",0.81,4,5,80.0,9.03,"No","Fit",6.02,7.56,79.41
+"Infosys","Bangalore",6,"Deep Learning Engineer","TypeScript, Python, Excel, OpenCV, Rust",0.65,3,5,60.0,8.55,"No","No Fit",9.57,5.57,68.19
+"Accenture","Pune",2,"Frontend Developer","Tailwind CSS, Bootstrap, Seaborn, PostgreSQL, Rust, Scikit-Learn, Python, C++, Vue.js, MongoDB",0.42,2,10,20.0,8.12,"No","Fit",8.48,7.84,74.99
+"HCL Technologies","Nagpur",1,"AI/ML Intern","Bootstrap, C++, TypeScript, LLMs, Java",0.45,1,5,20.0,8.29,"No","No Fit",9.27,8.85,75.47
+"HCL Technologies","Hyderabad",7,"Frontend Developer","Flask, Docker, Tailwind CSS, Seaborn, React",0.92,4,5,80.0,7.93,"No","Fit",6.35,6.53,66.25
+"Zoho Corp","Indore",3,"AI Research Assistant","PostgreSQL, Scikit-Learn, Transformers, Java, Python, Vue.js, Bootstrap, LLMs, FastAPI, React, Node.js, Docker",0.42,4,12,33.33,9.36,"Yes","No Fit",8.15,6.86,96.29
+"L&T Infotech","Gurgaon",2,"Cloud Engineer","Scikit-Learn, Python, Excel, Node.js, Tailwind CSS, LLMs",0.65,5,6,83.33,8.32,"No","Fit",9.37,8.66,90.87
+"HCL Technologies","Noida",2,"Blockchain Architect","Rust, C++, MongoDB, TensorFlow, Vue.js",0.67,3,5,60.0,7.79,"No","Fit",5.09,9.64,87.65
+"Tech Mahindra","Nagpur",8,"Software Engineer","React, Excel, Seaborn, Docker, Java, PostgreSQL, Flask",0.95,1,7,14.29,6.19,"Yes","Fit",8.04,9.71,80.94
+"Accenture","Noida",3,"Blockchain Architect","TensorFlow, TypeScript, Docker, Tailwind CSS, MongoDB, LLMs, Vue.js, FastAPI",0.52,8,8,100.0,8.28,"Yes","Fit",8.84,8.81,97.83
+"Infosys","Pune",7,"Software Engineer","Scikit-Learn, FastAPI, Java, Excel, Git, Bootstrap",0.92,1,6,16.67,9.93,"No","No Fit",5.46,6.74,97.24
+"TCS","Chennai",6,"AI/ML Intern","Tailwind CSS, Java, LLMs, React, TensorFlow, Seaborn",0.63,5,6,83.33,8.59,"Yes","Fit",7.69,8.9,93.08
+"Mindtree","Indore",4,"Blockchain Architect","Tailwind CSS, C++, Vue.js, Power BI, PostgreSQL, Java, React, Rust, Scikit-Learn",0.42,5,9,55.56,7.86,"No","Fit",6.69,7.16,72.03
+"Accenture","Chennai",5,"Software Engineer","Java, Node.js, Power BI, Transformers, Docker",0.63,1,5,20.0,8.14,"No","Fit",6.78,6.68,53.92
+"L&T Infotech","Noida",0,"DevOps Engineer","PyTorch, C++, Excel, Node.js, Rust",0.79,1,5,20.0,9.26,"No","Fit",6.09,7.6,98.04
+"L&T Infotech","Delhi",2,"Machine Learning Engineer","OpenCV, Excel, Transformers, TypeScript, React, FastAPI, Seaborn, Scikit-Learn, Bootstrap, C++, Vue.js, MongoDB",0.4,3,12,25.0,9.13,"Yes","No Fit",9.78,7.72,90.8
+"Cognizant","Hyderabad",1,"Frontend Developer","MongoDB, Transformers, PostgreSQL, Docker, Git, Scikit-Learn, Vue.js, Rust, Flask, Python",0.59,6,10,60.0,8.79,"Yes","Fit",8.85,7.42,87.12
+"IBM India","Ahmedabad",8,"Blockchain Architect","Excel, Seaborn, Power BI, Vue.js, Docker, React, Java, Python, Flask, Tailwind CSS, LLMs",0.45,8,11,72.73,9.47,"No","No Fit",7.47,9.57,53.81
+"Wipro","Chennai",6,"Frontend Architect","Docker, React, OpenCV, Python, MongoDB, Bootstrap, Rust, Power BI, Java",0.42,6,9,66.67,6.45,"No","Fit",6.68,6.64,88.9
+"HCL Technologies","Pune",8,"Data Scientist","MongoDB, Scikit-Learn, Python, Vue.js, C++, Excel, TensorFlow, Node.js, Seaborn",0.85,4,9,44.44,7.28,"No","No Fit",8.4,6.98,63.97
+"Zoho Corp","Delhi",3,"NLP Engineer","TensorFlow, Java, MongoDB, Node.js, Flask, Rust",0.88,6,6,100.0,9.17,"Yes","No Fit",7.73,7.06,94.49
+"Tech Mahindra","Ahmedabad",2,"Data Engineer","Vue.js, Seaborn, TypeScript, Git, OpenCV",0.79,1,5,20.0,6.06,"Yes","Fit",8.77,5.78,96.79
+"Cognizant","Nagpur",1,"MLOps Engineer","C++, Bootstrap, PyTorch, Docker, Transformers, LLMs, PostgreSQL, Python, Power BI",0.97,5,9,55.56,9.31,"Yes","No Fit",8.42,5.44,97.26
+"TCS","Ahmedabad",1,"Backend Developer","TypeScript, Power BI, React, C++, Bootstrap",0.61,4,5,80.0,8.56,"Yes","Fit",7.52,8.01,84.37
+"Tech Mahindra","Hyderabad",3,"MLOps Engineer","Node.js, C++, Java, Transformers, Flask, Power BI, Rust, Python, Tailwind CSS, Docker",0.43,7,10,70.0,6.24,"Yes","Fit",9.86,5.88,82.21
+"HCL Technologies","Kolkata",7,"Computer Vision Engineer","MongoDB, TypeScript, Vue.js, Python, PyTorch, Seaborn, Flask, PostgreSQL, Git, Scikit-Learn, Bootstrap",0.7,11,11,100.0,9.6,"No","No Fit",5.54,8.53,60.74
+"Capgemini","Pune",3,"MLOps Engineer","PostgreSQL, Flask, Java, C++, Bootstrap, Git, Docker, Rust, TypeScript, Python, LLMs",0.67,10,11,90.91,8.07,"No","Fit",8.01,8.9,52.28
+"Infosys","Chennai",1,"Data Engineer","MongoDB, Python, Power BI, Rust, Scikit-Learn, Transformers, PostgreSQL, Git, Java, Excel",0.77,2,10,20.0,7.09,"No","Fit",5.16,9.9,63.46
+"HCL Technologies","Kolkata",3,"Machine Learning Engineer","Bootstrap, C++, Excel, Java, Scikit-Learn, FastAPI, Seaborn, Vue.js, Tailwind CSS, TensorFlow, Node.js, Git",0.46,9,12,75.0,7.67,"No","Fit",6.18,8.77,91.44
+"Mindtree","Chennai",4,"Data Analyst","Docker, Excel, LLMs, PostgreSQL, Scikit-Learn, Tailwind CSS, React, FastAPI",0.71,3,8,37.5,9.03,"Yes","Fit",5.5,5.85,60.94
+"Tech Mahindra","Nagpur",6,"DevOps Engineer","Tailwind CSS, Rust, LLMs, PostgreSQL, FastAPI, Transformers",0.95,4,6,66.67,7.68,"Yes","Fit",7.14,6.55,71.49
+"Zoho Corp","Ahmedabad",7,"AI/ML Intern","Git, Tailwind CSS, C++, MongoDB, FastAPI, Bootstrap",0.88,5,6,83.33,9.54,"No","No Fit",6.24,5.97,75.96
+"Cognizant","Bangalore",2,"AI Research Assistant","Docker, Bootstrap, Scikit-Learn, OpenCV, React, Transformers",0.56,5,6,83.33,8.87,"Yes","Fit",6.56,9.7,57.8
+"Accenture","Mumbai",2,"Frontend Developer","Git, MongoDB, Transformers, Python, Seaborn, LLMs, Java, Tailwind CSS",0.41,7,8,87.5,6.64,"No","No Fit",9.53,8.95,55.3
+"IBM India","Hyderabad",2,"Data Analyst","Tailwind CSS, Vue.js, Python, TensorFlow, Transformers, Rust, Node.js",0.56,6,7,85.71,9.92,"Yes","Fit",7.83,7.93,98.39
+"Accenture","Delhi",3,"AI Research Assistant","Docker, LLMs, Seaborn, Tailwind CSS, TensorFlow, Flask, TypeScript, OpenCV, Rust, Bootstrap, Git, Java",0.64,6,12,50.0,8.65,"No","Fit",5.9,5.61,97.81
+"IBM India","Bangalore",5,"Cloud Engineer","C++, OpenCV, TypeScript, PyTorch, Transformers, Java, Bootstrap, Tailwind CSS, Docker, TensorFlow, Flask",0.86,4,11,36.36,7.68,"No","Fit",6.84,5.49,81.59
+"Mindtree","Chennai",5,"ML Ops Specialist","FastAPI, TypeScript, Tailwind CSS, Scikit-Learn, OpenCV, Power BI, Bootstrap",0.72,3,7,42.86,7.36,"No","Fit",5.69,6.01,72.23
+"IBM India","Hyderabad",5,"Frontend Architect","Flask, FastAPI, Power BI, TypeScript, Docker, PyTorch, Python, Git, Scikit-Learn, Transformers, Tailwind CSS",0.95,3,11,27.27,6.15,"No","Fit",6.14,6.57,62.94
+"Infosys","Gurgaon",6,"Full Stack Developer","Transformers, Bootstrap, Java, Excel, React, TypeScript, Python, FastAPI",0.69,4,8,50.0,8.15,"No","Fit",9.03,9.27,88.4
+"L&T Infotech","Ahmedabad",7,"Frontend Developer","PostgreSQL, Transformers, FastAPI, Flask, Rust",0.49,5,5,100.0,8.7,"No","Fit",7.3,5.34,87.29
+"Capgemini","Delhi",4,"AI/ML Intern","Scikit-Learn, Power BI, Vue.js, Node.js, Python, TypeScript, Flask, Java, Excel, Rust, Seaborn, TensorFlow",0.68,6,12,50.0,9.22,"No","Fit",6.58,5.55,98.66
+"Accenture","Mumbai",5,"Cloud Engineer","Git, FastAPI, Java, TypeScript, Seaborn, Excel, Docker, OpenCV, LLMs, Python, PostgreSQL, Node.js",0.78,7,12,58.33,6.79,"No","Fit",7.47,8.7,62.09
+"Infosys","Kolkata",1,"Data Engineer","Transformers, Git, Node.js, Rust, React, TensorFlow, Bootstrap, FastAPI, TypeScript, LLMs, PostgreSQL, Flask",0.59,10,12,83.33,6.28,"Yes","Fit",5.92,8.63,67.65
+"Tech Mahindra","Pune",3,"ML Ops Specialist","MongoDB, Docker, Scikit-Learn, PyTorch, PostgreSQL, LLMs, Java, React, TypeScript",0.78,1,9,11.11,6.72,"No","Fit",7.51,8.1,80.21
+"Mindtree","Chennai",1,"AI Research Assistant","PyTorch, C++, PostgreSQL, Seaborn, Transformers, React",0.98,6,6,100.0,6.81,"No","Fit",8.78,8.68,89.2
+"Cognizant","Gurgaon",5,"AI Research Assistant","OpenCV, Bootstrap, Git, FastAPI, LLMs, Python",0.47,6,6,100.0,7.92,"No","Fit",6.64,8.83,65.52
+"L&T Infotech","Kolkata",2,"AI Research Assistant","PyTorch, Seaborn, React, Rust, Transformers, MongoDB, Tailwind CSS, Python, Flask",0.94,3,9,33.33,7.54,"No","Fit",7.4,6.58,51.07
+"Tech Mahindra","Hyderabad",6,"Data Scientist","Flask, TypeScript, C++, FastAPI, PyTorch, Git, LLMs, TensorFlow, Vue.js, Bootstrap, Excel, Node.js",0.56,8,12,66.67,9.16,"Yes","Fit",6.57,5.65,60.13
+"Mindtree","Pune",7,"MLOps Engineer","Power BI, PyTorch, TypeScript, TensorFlow, Flask, Seaborn, Rust, LLMs, Python",0.94,5,9,55.56,7.11,"Yes","No Fit",6.69,8.07,95.96
+"TCS","Ahmedabad",4,"NLP Engineer","Docker, Power BI, LLMs, Java, React, Flask",0.64,4,6,66.67,9.13,"No","No Fit",9.66,6.87,51.5
+"Cognizant","Noida",0,"MLOps Engineer","Flask, PostgreSQL, Power BI, Git, Node.js",0.63,3,5,60.0,9.58,"No","No Fit",5.55,8.7,55.47
+"TCS","Chennai",5,"AI/ML Intern","TypeScript, React, Excel, Node.js, Power BI, TensorFlow, Git, Rust, Python, Bootstrap, PyTorch, Vue.js",0.69,7,12,58.33,6.36,"Yes","Fit",9.8,5.66,76.11
+"TCS","Chennai",2,"Machine Learning Engineer","Node.js, Git, MongoDB, Transformers, Power BI, PostgreSQL, Seaborn, TensorFlow, Python, PyTorch, Docker",0.84,10,11,90.91,8.15,"No","Fit",8.4,6.7,87.31
+"Accenture","Mumbai",1,"Deep Learning Engineer","Transformers, Docker, Node.js, Flask, Excel, Scikit-Learn, MongoDB, Seaborn, Vue.js, Tailwind CSS, Power BI, LLMs",0.87,7,12,58.33,7.35,"No","Fit",5.81,9.44,54.96
+"IBM India","Pune",4,"Backend Developer","Java, PyTorch, Tailwind CSS, Flask, Node.js",0.57,3,5,60.0,6.3,"No","Fit",8.58,6.12,53.73
+"IBM India","Chennai",5,"Full Stack Developer","Flask, Power BI, MongoDB, PostgreSQL, FastAPI, Vue.js, Java",0.43,6,7,85.71,6.98,"Yes","Fit",6.46,6.93,97.24
+"HCL Technologies","Ahmedabad",5,"AI Research Assistant","FastAPI, Java, Scikit-Learn, Transformers, Docker",0.97,3,5,60.0,7.91,"No","No Fit",9.94,8.98,59.08
+"Accenture","Chennai",5,"Blockchain Architect","TypeScript, MongoDB, OpenCV, Excel, FastAPI, React, Bootstrap, Power BI, Node.js, Seaborn, Vue.js",0.8,4,11,36.36,9.92,"Yes","Fit",5.14,9.28,97.85

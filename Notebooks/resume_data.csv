@@ -1,0 +1,101 @@
+"Role","Skills","shortlisting_probability","matched_skills_count","total_job_skills","skill_match_percent","cgpa","recommendation","fit_label","fit_score","resume_quality_score","market_value_score"
+"Backend Developer","Flask, Transformers, Python, TypeScript, FastAPI, Rust, Scikit-Learn, MongoDB",0.9,6,8,75.0,6.93,"Yes","No Fit",6.83,8.48,81.06
+"MLOps Engineer","Scikit-Learn, PostgreSQL, Docker, Excel, Vue.js, TensorFlow, C++, Bootstrap, Power BI",0.9,2,9,22.22,6.84,"Yes","No Fit",5.04,7.31,61.99
+"AI Research Assistant","Rust, OpenCV, C++, MongoDB, Docker, Tailwind CSS, Git, Flask, Power BI",0.66,3,9,33.33,6.01,"No","No Fit",5.07,8.1,98.73
+"DevOps Engineer","Docker, Bootstrap, Power BI, Scikit-Learn, LLMs, Excel, Transformers, React, MongoDB, Vue.js, OpenCV",0.47,2,11,18.18,8.55,"No","Fit",9.4,7.36,54.47
+"Full Stack Developer","PyTorch, Docker, Node.js, Flask, TensorFlow",0.4,1,5,20.0,6.93,"Yes","No Fit",5.8,8.6,59.88
+"AI Research Assistant","Vue.js, PostgreSQL, Transformers, Docker, LLMs, Node.js, Rust, Git, Java",0.66,8,9,88.89,9.86,"No","Fit",9.05,5.29,89.3
+"Frontend Architect","Git, FastAPI, Docker, LLMs, Rust, Vue.js, TypeScript, Java, C++, Transformers, Seaborn, Python",0.62,5,12,41.67,9.12,"No","No Fit",5.53,7.65,71.36
+"Software Engineer","Tailwind CSS, Power BI, React, Python, Seaborn, Rust, FastAPI, OpenCV, Vue.js, LLMs, MongoDB, Docker",0.4,6,12,50.0,6.02,"Yes","Fit",9.3,5.66,66.76
+"AI/ML Intern","OpenCV, Java, Excel, Node.js, Transformers, Scikit-Learn, LLMs, MongoDB, TensorFlow, Flask",0.73,2,10,20.0,7.46,"Yes","Fit",9.73,8.58,76.54
+"Software Engineer","Vue.js, TypeScript, PyTorch, Seaborn, PostgreSQL, Tailwind CSS",0.45,1,6,16.67,7.6,"No","No Fit",5.11,9.85,81.61
+"NLP Engineer","Rust, Tailwind CSS, TypeScript, Node.js, Docker",0.66,4,5,80.0,6.68,"Yes","No Fit",6.27,5.37,54.46
+"Machine Learning Engineer","LLMs, Flask, Excel, TypeScript, TensorFlow, React, Transformers, PostgreSQL, Git, Bootstrap, PyTorch, Python",0.44,12,12,100.0,9.41,"No","No Fit",5.02,8.78,68.28
+"MLOps Engineer","Tailwind CSS, Java, Power BI, LLMs, OpenCV, Rust, Flask, C++, React, TensorFlow",0.85,8,10,80.0,7.7,"No","Fit",9.08,7.36,88.16
+"Data Engineer","Git, TensorFlow, Bootstrap, MongoDB, Java",0.51,3,5,60.0,7.0,"No","Fit",8.52,8.69,82.85
+"Data Engineer","Docker, Bootstrap, Tailwind CSS, C++, Vue.js",0.45,4,5,80.0,9.12,"Yes","No Fit",5.32,8.67,79.7
+"DevOps Engineer","Scikit-Learn, Seaborn, Git, Vue.js, Power BI",0.61,1,5,20.0,9.81,"Yes","No Fit",6.5,7.04,78.37
+"Full Stack Developer","PyTorch, OpenCV, FastAPI, Git, Seaborn",0.76,1,5,20.0,7.84,"Yes","Fit",8.65,7.03,90.59
+"Deep Learning Engineer","Python, TypeScript, Docker, MongoDB, FastAPI, Vue.js, Flask",0.49,3,7,42.86,9.21,"Yes","Fit",7.58,9.69,71.23
+"Data Analyst","Git, TensorFlow, Flask, Bootstrap, React, LLMs, Seaborn, Python, Excel, PostgreSQL",0.51,6,10,60.0,9.06,"Yes","Fit",9.05,9.16,97.89
+"AI/ML Intern","MongoDB, Scikit-Learn, LLMs, Node.js, PyTorch, TypeScript, Git, Tailwind CSS, C++, Bootstrap",0.46,5,10,50.0,6.29,"Yes","No Fit",5.31,6.63,62.39
+"Full Stack Developer","Power BI, LLMs, Docker, Flask, FastAPI, Node.js, Transformers, TensorFlow, Vue.js",0.79,4,9,44.44,9.24,"No","No Fit",5.77,7.18,78.5
+"Data Scientist","Power BI, OpenCV, TensorFlow, Node.js, Seaborn, Flask, Scikit-Learn, Java, Vue.js, Python",0.49,2,10,20.0,7.32,"Yes","Fit",9.57,8.57,69.89
+"Full Stack Developer","Bootstrap, MongoDB, Node.js, LLMs, Transformers, Flask, React, FastAPI",0.8,8,8,100.0,6.2,"No","No Fit",6.42,5.86,52.28
+"AI/ML Intern","OpenCV, Java, MongoDB, LLMs, React, Seaborn",0.42,3,6,50.0,7.82,"No","No Fit",6.49,6.82,77.8
+"Frontend Developer","PyTorch, Flask, Excel, Python, Java, TypeScript",0.71,2,6,33.33,8.44,"No","No Fit",6.5,9.54,72.13
+"Data Analyst","Docker, Scikit-Learn, Power BI, Rust, Bootstrap, MongoDB, Python, Excel",0.51,5,8,62.5,8.65,"No","No Fit",6.51,5.51,96.65
+"ML Ops Specialist","Power BI, Scikit-Learn, Seaborn, Bootstrap, TensorFlow, PostgreSQL, Transformers, Node.js, MongoDB",0.77,2,9,22.22,8.37,"No","Fit",9.17,5.74,98.09
+"Cloud Engineer","Power BI, Rust, LLMs, Vue.js, Seaborn, Python, PostgreSQL, Scikit-Learn, FastAPI, Tailwind CSS",0.93,8,10,80.0,7.17,"No","Fit",7.39,9.58,83.54
+"DevOps Engineer","Flask, Node.js, React, Python, Vue.js, OpenCV, C++, TensorFlow, Bootstrap",0.55,6,9,66.67,7.87,"No","Fit",9.22,8.72,57.0
+"Frontend Developer","Seaborn, LLMs, MongoDB, Docker, Transformers, PostgreSQL",0.64,3,6,50.0,7.58,"No","Fit",9.15,7.12,52.09
+"DevOps Engineer","Transformers, TypeScript, Tailwind CSS, Flask, OpenCV",0.47,1,5,20.0,9.18,"No","No Fit",5.2,5.62,70.68
+"Software Engineer","Scikit-Learn, Transformers, TypeScript, Seaborn, PyTorch, Power BI",0.52,1,6,16.67,6.77,"Yes","No Fit",5.46,5.25,84.96
+"Full Stack Developer","Bootstrap, Seaborn, Flask, Docker, LLMs, Scikit-Learn, C++, MongoDB, Tailwind CSS",0.46,2,9,22.22,7.14,"No","No Fit",6.39,5.74,63.65
+"Cloud Engineer","Tailwind CSS, OpenCV, FastAPI, LLMs, Rust, PyTorch, Docker, C++, MongoDB",0.93,8,9,88.89,9.9,"No","Fit",8.13,6.62,95.33
+"Data Engineer","Flask, MongoDB, Node.js, React, LLMs, FastAPI, Bootstrap, PyTorch, Seaborn, PostgreSQL",0.7,7,10,70.0,6.53,"Yes","Fit",8.41,8.46,66.35
+"Data Scientist","Flask, Node.js, Vue.js, Power BI, Bootstrap, Rust, PyTorch, C++, MongoDB",0.87,2,9,22.22,9.57,"No","Fit",7.59,5.38,96.69
+"Machine Learning Engineer","Flask, Node.js, Seaborn, MongoDB, Bootstrap, React, Docker, Git, Excel",0.77,1,9,11.11,7.18,"No","Fit",9.73,9.9,51.7
+"DevOps Engineer","Tailwind CSS, Transformers, FastAPI, Power BI, PyTorch, Excel, Seaborn, Vue.js, TypeScript, OpenCV",0.81,8,10,80.0,9.01,"Yes","No Fit",6.26,5.88,95.41
+"Backend Developer","Python, Git, Scikit-Learn, Java, Tailwind CSS",0.49,2,5,40.0,7.01,"Yes","Fit",8.85,5.41,91.45
+"NLP Engineer","C++, MongoDB, Scikit-Learn, PyTorch, React, Transformers, Vue.js, TypeScript, Python, PostgreSQL, LLMs",0.41,10,11,90.91,7.7,"No","Fit",7.91,9.85,99.98
+"Blockchain Architect","Scikit-Learn, Excel, Power BI, LLMs, Node.js, Flask, Transformers, MongoDB, OpenCV, TensorFlow, PyTorch",0.57,2,11,18.18,7.4,"No","No Fit",6.32,8.77,97.2
+"ML Ops Specialist","TypeScript, C++, PostgreSQL, Excel, TensorFlow, MongoDB, Transformers",0.61,6,7,85.71,8.49,"Yes","Fit",9.5,7.19,74.96
+"AI/ML Intern","LLMs, Seaborn, Power BI, Rust, React, MongoDB, Scikit-Learn",0.59,2,7,28.57,8.89,"No","No Fit",5.73,6.32,71.05
+"Computer Vision Engineer","TensorFlow, MongoDB, FastAPI, Tailwind CSS, Rust, PostgreSQL, PyTorch, Bootstrap",0.46,2,8,25.0,6.6,"Yes","Fit",7.46,8.27,80.61
+"ML Ops Specialist","C++, Scikit-Learn, Power BI, Seaborn, Git, PyTorch, Tailwind CSS, React, Transformers, OpenCV, FastAPI, Bootstrap",0.57,6,12,50.0,9.15,"No","Fit",7.57,7.71,79.1
+"Frontend Developer","Python, PostgreSQL, TypeScript, Seaborn, Flask, TensorFlow, Java, Rust, MongoDB, C++, Docker",0.46,2,11,18.18,6.11,"No","No Fit",6.26,8.76,69.96
+"MLOps Engineer","Git, Seaborn, Excel, TensorFlow, PostgreSQL, Java, TypeScript, Bootstrap",0.67,4,8,50.0,8.19,"Yes","Fit",7.87,5.91,73.39
+"Blockchain Architect","PyTorch, Tailwind CSS, Rust, TensorFlow, Python",0.79,5,5,100.0,8.55,"No","No Fit",5.15,5.05,55.84
+"Data Analyst","Docker, Java, PostgreSQL, Python, FastAPI, C++, PyTorch, Tailwind CSS, MongoDB, Excel, OpenCV, TypeScript",0.91,8,12,66.67,7.09,"Yes","No Fit",5.01,8.97,59.53
+"Frontend Architect","PyTorch, Flask, LLMs, MongoDB, OpenCV, Git, FastAPI, Tailwind CSS, Python, Rust",0.42,1,10,10.0,9.38,"Yes","No Fit",6.8,9.7,95.05
+"MLOps Engineer","Bootstrap, Rust, Java, Transformers, Scikit-Learn, PostgreSQL, TensorFlow, LLMs",0.61,2,8,25.0,6.85,"No","Fit",8.09,9.22,88.6
+"Data Analyst","Bootstrap, Java, FastAPI, PostgreSQL, LLMs",0.94,5,5,100.0,9.76,"No","Fit",7.51,7.5,99.98
+"ML Ops Specialist","Python, PyTorch, Node.js, Flask, Scikit-Learn",0.74,5,5,100.0,6.29,"No","Fit",9.84,6.78,69.83
+"Cloud Engineer","LLMs, MongoDB, Java, Node.js, React, Python, Rust, TensorFlow, PyTorch, Transformers",0.77,10,10,100.0,9.56,"No","Fit",9.51,9.27,77.46
+"Computer Vision Engineer","Docker, PostgreSQL, Python, MongoDB, PyTorch, Transformers, Power BI",0.9,2,7,28.57,6.79,"Yes","Fit",9.06,7.2,65.03
+"ML Ops Specialist","PyTorch, Power BI, Vue.js, Rust, Tailwind CSS, C++, FastAPI, Git, Python",0.95,7,9,77.78,8.65,"No","Fit",8.89,7.95,64.82
+"Frontend Architect","MongoDB, TensorFlow, LLMs, PyTorch, Rust, Scikit-Learn, Bootstrap, Vue.js, Python",0.87,8,9,88.89,6.51,"Yes","Fit",9.44,9.77,60.66
+"Full Stack Developer","Power BI, Docker, Python, PostgreSQL, TensorFlow, PyTorch, Flask, Bootstrap, Vue.js",0.47,5,9,55.56,8.64,"Yes","No Fit",5.31,6.49,63.61
+"NLP Engineer","Scikit-Learn, Flask, Excel, TypeScript, OpenCV, Node.js, C++, Rust, LLMs",0.75,6,9,66.67,8.46,"No","Fit",8.29,8.49,99.75
+"Machine Learning Engineer","FastAPI, Excel, Scikit-Learn, OpenCV, Docker, PyTorch, Java, Transformers, PostgreSQL, Git, Node.js",0.76,10,11,90.91,6.46,"No","Fit",7.91,5.49,92.86
+"Software Engineer","Transformers, FastAPI, Vue.js, Docker, Rust, TypeScript, Seaborn, PyTorch",0.68,1,8,12.5,9.09,"Yes","Fit",7.83,6.96,56.56
+"MLOps Engineer","TensorFlow, Vue.js, Python, Seaborn, Rust, Git, OpenCV, Excel, PostgreSQL, Transformers",0.54,1,10,10.0,8.59,"No","No Fit",6.67,6.15,82.81
+"NLP Engineer","Bootstrap, Vue.js, OpenCV, PyTorch, Python, MongoDB, Git, Flask, Transformers, Power BI, Rust, TensorFlow",0.68,12,12,100.0,6.01,"Yes","Fit",9.92,6.25,88.38
+"Data Engineer","Flask, Node.js, React, Scikit-Learn, Tailwind CSS, C++, PyTorch",0.86,7,7,100.0,8.06,"Yes","No Fit",5.81,8.03,54.46
+"Backend Developer","Seaborn, FastAPI, Power BI, LLMs, Flask, PyTorch, Java, React, Scikit-Learn, TensorFlow, C++, Python",0.42,9,12,75.0,8.75,"No","Fit",7.23,5.53,64.88
+"Blockchain Architect","Scikit-Learn, Java, OpenCV, Power BI, PyTorch, TypeScript, Flask, Bootstrap, Git, Seaborn, TensorFlow, Node.js",0.86,6,12,50.0,9.96,"Yes","Fit",7.23,8.96,92.47
+"ML Ops Specialist","Rust, React, Flask, Scikit-Learn, OpenCV, FastAPI, Power BI",0.49,2,7,28.57,6.52,"No","Fit",9.29,5.6,51.19
+"Machine Learning Engineer","Power BI, C++, Rust, Seaborn, Vue.js, Node.js, Scikit-Learn, Flask",0.41,6,8,75.0,8.25,"No","Fit",7.92,9.11,57.49
+"AI/ML Intern","Git, Node.js, Seaborn, C++, LLMs, FastAPI",0.61,2,6,33.33,6.94,"No","Fit",8.3,7.75,99.52
+"Data Engineer","Rust, FastAPI, Power BI, Bootstrap, Scikit-Learn, Transformers, TypeScript, Excel, MongoDB, C++, Git, PostgreSQL",0.59,12,12,100.0,9.54,"No","Fit",9.5,5.05,59.02
+"ML Ops Specialist","Flask, Transformers, LLMs, Rust, FastAPI",0.68,5,5,100.0,6.16,"No","Fit",7.85,5.62,59.07
+"DevOps Engineer","TypeScript, Rust, Python, PostgreSQL, React, MongoDB, C++, PyTorch, Tailwind CSS, Java, Vue.js, Transformers",0.78,7,12,58.33,6.23,"Yes","Fit",7.06,6.4,61.55
+"Deep Learning Engineer","Excel, Node.js, React, Seaborn, OpenCV, Java, Python, PyTorch",0.4,5,8,62.5,6.76,"Yes","No Fit",5.08,7.74,59.02
+"Data Scientist","LLMs, Bootstrap, OpenCV, Java, Node.js, Transformers, Excel, TypeScript, TensorFlow, C++, Git, PostgreSQL",0.95,2,12,16.67,7.39,"No","No Fit",6.86,6.34,77.33
+"Frontend Architect","React, Tailwind CSS, LLMs, FastAPI, PyTorch, Power BI, Rust, OpenCV, TypeScript, C++, PostgreSQL",0.84,4,11,36.36,8.58,"Yes","No Fit",5.41,8.81,85.4
+"AI Research Assistant","TypeScript, OpenCV, Vue.js, Python, PostgreSQL, Flask, FastAPI, Rust, Docker",0.73,4,9,44.44,9.83,"Yes","No Fit",5.97,6.74,99.95
+"Software Engineer","Python, MongoDB, Tailwind CSS, FastAPI, React, LLMs, Rust, Flask, Git",0.48,8,9,88.89,9.99,"No","No Fit",5.84,9.38,90.89
+"Data Scientist","Git, Bootstrap, LLMs, Tailwind CSS, Transformers, Java, Node.js",0.43,3,7,42.86,9.87,"No","Fit",9.96,5.06,51.43
+"Cloud Engineer","TypeScript, LLMs, Python, PyTorch, Vue.js, FastAPI, Excel, C++, OpenCV",0.93,5,9,55.56,8.17,"No","No Fit",5.39,5.8,86.13
+"NLP Engineer","OpenCV, Node.js, PostgreSQL, Transformers, Seaborn",0.55,2,5,40.0,7.54,"Yes","No Fit",6.89,7.94,70.3
+"MLOps Engineer","TypeScript, PyTorch, Docker, Flask, Seaborn, Python, TensorFlow",0.96,2,7,28.57,9.56,"No","No Fit",6.86,9.72,95.86
+"ML Ops Specialist","PostgreSQL, Node.js, Scikit-Learn, Tailwind CSS, Transformers, Rust, MongoDB, Python",0.67,2,8,25.0,7.36,"No","No Fit",5.91,8.46,50.13
+"AI Research Assistant","Transformers, OpenCV, FastAPI, LLMs, Rust",0.65,5,5,100.0,6.3,"Yes","No Fit",6.78,9.41,52.95
+"Data Engineer","MongoDB, Excel, Power BI, OpenCV, FastAPI, Transformers",0.87,4,6,66.67,9.41,"Yes","Fit",7.91,8.05,95.82
+"Frontend Architect","OpenCV, Seaborn, MongoDB, FastAPI, Tailwind CSS, LLMs",0.93,4,6,66.67,9.35,"No","Fit",7.63,6.84,78.42
+"DevOps Engineer","MongoDB, Power BI, Node.js, Rust, Transformers, LLMs, Scikit-Learn, Docker, TensorFlow, Tailwind CSS",0.57,8,10,80.0,7.02,"Yes","Fit",8.93,6.95,97.44
+"DevOps Engineer","Git, Bootstrap, TensorFlow, OpenCV, Tailwind CSS, PyTorch, TypeScript, Python, C++, Power BI",0.58,6,10,60.0,9.3,"Yes","No Fit",5.62,8.72,65.84
+"MLOps Engineer","Python, Transformers, Rust, TensorFlow, Docker, TypeScript",0.85,5,6,83.33,6.57,"No","Fit",7.28,5.65,80.65
+"Frontend Developer","TypeScript, Tailwind CSS, Bootstrap, Python, TensorFlow",0.94,2,5,40.0,6.22,"No","Fit",9.65,9.85,80.15
+"Backend Developer","C++, TensorFlow, FastAPI, PostgreSQL, MongoDB, Power BI, React, LLMs, Excel",0.6,4,9,44.44,7.31,"Yes","No Fit",5.61,7.91,92.86
+"ML Ops Specialist","Docker, C++, Scikit-Learn, Seaborn, Java, Python, Git, Vue.js, LLMs",0.81,9,9,100.0,9.62,"Yes","Fit",9.98,7.05,82.38
+"Machine Learning Engineer","Git, Tailwind CSS, Scikit-Learn, TypeScript, Java",0.9,5,5,100.0,9.79,"Yes","No Fit",6.67,5.68,55.22
+"ML Ops Specialist","FastAPI, PostgreSQL, Rust, PyTorch, Bootstrap, Excel, TensorFlow, Docker, MongoDB",0.51,4,9,44.44,7.26,"No","Fit",9.38,5.14,54.5
+"Backend Developer","React, Scikit-Learn, OpenCV, TypeScript, Seaborn, Power BI, Vue.js, Java, Docker",0.51,5,9,55.56,7.09,"Yes","Fit",8.6,8.78,86.46
+"Full Stack Developer","React, C++, Power BI, Node.js, Seaborn, LLMs, TypeScript, FastAPI, Java, Scikit-Learn, Excel, Transformers",0.81,10,12,83.33,9.22,"Yes","Fit",9.34,7.89,56.05
+"Blockchain Architect","Power BI, Node.js, Flask, PostgreSQL, OpenCV, Seaborn, Tailwind CSS, C++, TypeScript, React",0.72,8,10,80.0,8.62,"No","Fit",8.12,9.1,89.19
+"MLOps Engineer","TypeScript, Rust, Vue.js, Git, React, Transformers, MongoDB, Excel, Node.js, Java",0.59,2,10,20.0,7.45,"Yes","Fit",9.98,9.2,63.1
+"Full Stack Developer","Python, Node.js, Git, Excel, Vue.js, C++",0.85,3,6,50.0,9.21,"Yes","No Fit",6.04,8.39,89.46
+"Software Engineer","C++, LLMs, Java, PyTorch, Flask, Excel, Scikit-Learn, Seaborn",0.48,5,8,62.5,6.34,"Yes","No Fit",6.93,8.58,63.63
+"Data Engineer","PostgreSQL, LLMs, Git, Transformers, FastAPI, React, Java, Excel, Python, TypeScript, OpenCV",0.79,9,11,81.82,6.13,"Yes","No Fit",6.42,6.93,90.44
