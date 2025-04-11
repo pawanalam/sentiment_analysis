@@ -11,7 +11,7 @@ const ProfileForm = ({ setResult }) => {
         linkedin: "",
         github: "",
         resume: null
-    });
+    });  
 
     const [showAssistant, setShowAssistant] = useState(false);
     const navigate = useNavigate();

@@ -117,15 +117,14 @@ Additional Projects:
             backgroundColor: "#f5f5f5",
             padding: "0.75rem 1rem",
             borderRadius: "8px",
-            boxShadow: "0px 4px 10px rgba(0, 0, 0, 0.1)",
-          }}
-        >
+          }} >
+            
           <input
             type="checkbox"
             checked={sendResumeChecked}
             onChange={() => setSendResumeChecked(!sendResumeChecked)}
             style={{ marginRight: "0.5rem" }}
-          />
+            />
           If you want to send your resume to similar job recruiting companies, check this box
         </label>
 
